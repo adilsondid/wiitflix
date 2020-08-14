@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,FILMES
+http://archive.org/download/filmes-lista/FILMES%20Lista.m3u
+#EXTINF:-1,SERIES
+http://archive.org/download/series-mplayer/SERIES%20MPlayer.m3u
+#EXTINF:-1,ANIMAÇÕES
+http://archive.org/download/series-animacoes-mplayer/SERIES%20-%20Animacoes%20Mplayer.m3u
+#EXTINF:-1,TOKUSATSUS
+http://archive.org/download/series-tokusatsus-mplayer/SERIES%20-%20Tokusatsus%20MPlayer.m3u
+#EXTINF:-1,NOVELAS
+http://archive.org/download/series-novelas-mplayer/SERIES%20-%20Novelas%20MPlayer.m3u
+#EXTINF:-1,ANIMES
+http://archive.org/download/animes-mplayer/Animes%20MPlayer.m3u
+#EXTINF:-1,INFANTIL
+http://archive.org/download/infantil-lista/INFANTIL%20Lista.m3u
+#EXTINF:-1,MUSICAS
+http://archive.org/download/musicas_202008/MUSICAS.m3u
